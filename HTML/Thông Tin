@@ -20,9 +20,9 @@
             </div>
         </header>
         <style>
-            #jk{background: black;}
-            #kj{background: rgb(96, 156, 204);}
-            h3{color:white;}
+            #jk{background: write;}
+            #kj{background: write;}
+            h3{color:black;}
             p{color: rgb(179, 242, 250);}
         </style>
         <section>
