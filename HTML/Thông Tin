@@ -23,7 +23,7 @@
             #jk{background: write;}
             #kj{background: write;}
             h3{color:black;}
-            p{color: rgb(179, 242, 250);}
+            p{color: black;}
         </style>
         <section>
             <div id="jk">
