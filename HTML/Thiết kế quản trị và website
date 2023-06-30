@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="description" content="Các món ăn gia đình">
+        <meta name="author" content="Hung Huy">
+        <title>Các món ăn gia đình</title>
+    </head>
+    <body>
+        <header>
+            <div id="kj">
+            <nav>
+                <ul>
+                    <link rel="next" href="https://Amthuc.net.vn/page/1/">
+                    <link rel="next" href="https://Amthuc.net.vn/page/2/">
+                    <link ref="next" href="https://Amthuc.net.vn/page/3/">
+                    <link ref="next" href="https://Amthuc.net.vn/page/4/">
+                    <link ref="next" href="https://Amthuc.net.vn/page/5/">
+                </ul>
+            </nav>
+            <h2><b>Ẩm thực</b></h2>
+            </div>
+        </header>
+        <section>
+            <div id="jk">
+            <p>Menu món ngon</p>
+            <img src="https://songduong.com/wp-content/uploads/2020/03/SD-MenuRutGon-web-1.jpg" width="300" height="200">
+            <h3><b></b></h3>
+            <h1><p>Món ăn</p></h1>
+            <h2><p>Gỏi cuốn</p></h2>
+            <h1><link rel="next" href="https://Amthuc.net.vn/page/2/">Món ăn</a></h1>
+            <h2><p>Thịt gà chiên nước mắm</h2></p>
+            <h2><p>Thịt ba chỉ quay giòn bì</h2></p>
+            <h2><p>Canh rau cải</h2></p>
+            <h2><p>Củ cải muối</h2></p>
+            <h2><p>Tráng miệng: Quất ngọt</h2></p>
+            <img src="https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-57-1671587877213780697461.jpg" width="300" height="200" />
+            <h2><p>Riêu cua</h2></p>
+            <h2><p>Bắp bò ngâm mắm</h2></p>
+            <h2><p>Thịt diềm luộc</h2></p>
+            <h2><p>Tôm hấp nước dừa</h2></p>
+            <h2><p>Cà pháo</h2></p>
+            <h2><p></p>Tráng miệng: Quýt</h2></p>
+            <img src="https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-98-16715878746801816647254.jpg" width="300" height="200">
+            <h1><p>Địa điểm hấp dẫn</p></h1>
+            <h1><p>Quán Hải Sản</p></h1>
+            <h2><p>Quán Bờ Kè - Địa chỉ: số 52 đường Cù Huân, phường Vĩnh Thọ, TP. Nha Trang, tỉnh Khánh Hòa</p></h2>
+            <h2><p>Quán Thanh Sương - Địa chỉ: Cơ sở 1: số 15 đường Trần Phú, phường Vĩnh Nguyên, TP. Nha Trang, tỉnh Khánh Hòa</p><br>Địa chỉ: Cơ sở 2: số 9A đường Trần Phú, phường Vĩnh Nguyên, TP. Nha Trang, tỉnh Khánh Hòa
+            <h2><p>Quán ốc Xuân Anh - Địa chỉ: số 9C đường Tháp Bà, phường Vĩnh Thọ, TP. Nha Trang, tỉnh Khánh Hòa</p></h2>
+            <img src="https://static.vinwonders.com/2022/03/JeXWynZd-dia-diem-an-uong-nha-trang-01.jpg">
+            </div>
+        </section>
+    </body>
+</html>
