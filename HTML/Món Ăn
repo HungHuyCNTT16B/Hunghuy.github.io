@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Hung Huy">
+        <title>Ẩm thực du lịch Việt Nam</title>
+    </head>
+
+    <body>
+        <header>
+            <div>
+            <nav>
+                <ul>
+                    <li><a href="Trangchu.html">Trang Chủ</a></li>
+                    <li class="current"><a href="MonAn.html">Món ăn</a></li>
+                    <li><a href="Điaiemhapdan.html">Địa Điểm hấp dẫn </a></li>
+                    <li><a href="Meovatnauan.html">Mẹo vặt nấu ăn</a></li>
+                    <li><a href="Dathang.html">Đặt hàng</a></li>
+                </ul>
+            </nav>
+            </div>
+        </header>
+        <style>
+        </style>
+        <section>
+            <div id="vung1">
+            <p><b>Ẩm thực Việt Nam trong mắt khách du lịch</b></p>
+            <pre>Từ xưa đến nay, Ẩm thực Việt Nam là một đặc trưng văn hóa phi vật thể mà bất cứ người Việt Nam nào cũng tự hào với bạn bè bốn bể năm châu. Các món ăn đa dạng, hương vị hấp dẫn, giá cả phải chăng, hình thức bắt mắt là những gì những vị khách phải thốt lên.</pre>
+            <h1><b>Ẩm thực Việt Nam có hương vị thanh khiết</b></h1>
+            <h3>"Ẩm thực đường phố ở Việt Nam chỉ đơn giản là bạn vào một cửa tiệm và chọn cho mình một chỗ ngồi, thường là ngồi trên ghế nhựa. Một đặc sản mà chỉ Việt Nam mới có chính là những người bán hàng rong. Tiếng rao chào hàng của họ đã trở thành nét “độc nhất vô nhị” đối với du lịch Việt. Một vài chuyên gia ẩm thực đã nhận xét rằng ẩm thực Việt Nam hấp dẫn du khách bởi hương vị thanh khiết, nó không béo ngậy như đồ ăn Trung Hoa và không cay như các món Thái Lan. Việt Nam đích thị là một thiên đường ẩm thực.” <br>Theo ông Mike Tatarski, một du khách đã có nhiều năm trải nghiệm các món ăn đường phố Việt Nam. </h3>
+            </div>
+            <h1>Các món ăn được đánh giá cao</h1>
+            <h2><b>Bánh Mì</h2></b>
+            <img src="https://o.rada.vn/data/image/2021/06/07/Mon-an-1.jpg">
+            <h3>Nổi tiếng cùng với Phở, bánh sandwich baquette của Việt Nam, có tên gọi là Bánh Mì, đã thu hút được số lượng fan ngày càng tăng trên thế giới. Sự đặc trưng của bánh mì không chỉ nằm ở ổ bánh mì baquette nhẹ và giòn, mà còn nằm ở sự đa dạng trong hương vị ở phần nhân đầy tính Việt Nam đem đến vị ngon tuyệt vời. Bánh mì là loại sandwich Pháp-Việt Nam đặc trưng phù hợp khi bạn cần một bữa ăn nhanh. Với giá từ 10,000VNĐ đến 15,000VNĐ, món này bao gồm bánh sandwich baguette nướng giòn, rau dưa chua, pate, bơ, nước mắm, rau mùi ngò, ớt, etc. Hầu hết những người bán bánh mì cũng có hàng loạt nhân thịt khác nhau, bao gồm thịt heo quay, trứng ốp la, thịt nướng, chả cá, chả lụa, xá xíu, và thịt gà. Với danh tiếng của mình, Bánh mì được coi là bản ngã của ẩm thực Việt Nam. Đây là một món ăn phải thử mà cả những người kén ăn cũng không thể cưỡng lại được.</h3>
+            <h2><b>Cơm Chiên</b></h2>
+            <img src="https://png.pngtree.com/thumb_back/fh260/background/20220311/pngtree-healthy-homemade-fried-rice-image_1028148.jpg" width="750" height="500">
+            <h3>Thực tế, đây là thực đơn phổ biến nhất ở nước Đông Nam Á. Đầu tiên gạo được đun sôi trong nước và sau đó cơm được chiên với một ít thịt gà và rau và dầu. Cà ri gà được chuẩn bị một cách riêng biệt bằng cách sử dụng một số gia vị và thịt gà và cuối cùng, món salad được chuẩn bị bằng cách sử dụng các loại rau và trái cây khác nhau và sau đó chúng được cắt thành từng miếng và trộn lẫn với mù tạt. Sau đó, ba thứ này được phục vụ cùng nhau. Chúng tôi ăn thực đơn này khoảng 3-4 lần trong một tuần. Thực đơn này chủ yếu được chuẩn bị ở nhà và đôi khi mọi người ăn trong nhà hàng. Có một số biến thể trong cách thức thực phẩm này được chuẩn bị và các thành phần được dùng trong món ăn này được thực hiện. Các nhà hàng khác nhau có đặc sản riêng trong việc chuẩn bị và phục vụ thực đơn này. Đây là món ăn ưa thích của nhiều người vì nhiều lý do: trước hết nó rất ngon và khỏe mạnh. Thực đơn này đáp ứng nhu cầu về các giá trị thực phẩm khác nhau mà cơ thể chúng ta cần. Nó có sẵn trong hầu hết các vùng. Thứ ba, ưa thích nó vì sự đa dạng về hương vị. Hơn nữa, nó không phải tốn kém nhiều để chuẩn bị và không cần đòi hỏi nhiều nỗ lực để chuẩn bị.</h3>
+            </div>
+            <h2><b>Bún bò Huế</h2></b>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91BcnSaWPOET9aNvPa_6v4V6ggO-qduZ-mw&usqp=CAU" width="700" height="550">
+            <h3>Nếu đến Huế, ai cũng khó quên hương vị Bún bò Huế - một đặc sản của Huế. Một tô mì trắng ngần, những miếng chân giò lợn… sẽ tạo nên ấn tượng riêng về ẩm thực Huế. Nguyên liệu chính để nấu “bún bò Huế” là thịt bò và thịt lợn. Thịt bò được chọn cẩn thận, thịt lợn sẽ được lấy từ khuỷu tay trở xuống chân. Sau đó đem thịt lợn rửa sạch, cạo lông, luộc chín khoảng nửa tiếng. Nước dùng được chế biến bằng cách ninh xương bò, móng bò với sả sau đó nêm mắm tôm lên men và đường cho vừa ăn. Dầu ớt cay được thêm vào sau đó trong quá trình nấu. Thêm nữa, Bún bò thường được ăn kèm với chanh, ngò gai, hành lá thái hạt lựu, hành tây thái mỏng, tương ớt, hoa chuối thái mỏng, bắp cải đỏ, bạc hà, húng quế, tía tô, rau mùi tàu hoặc ngò Việt Nam (rau răm), rau thơm (ngò gai) và đôi khi là giá đỗ xanh.Tóm lại, đây là một trong những món ăn nổi tiếng ở Việt Nam, bạn nên thử ăn Bún bò Huế ít nhất một lần.</h3>
+            <h2><b>Phở</h2></b>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1w0QvClQSvA6JBQ_f6l66MpE5OiGKOq9vVA&usqp=CAU" width="800" height="600">
+            <h3>Phở là một trong những món ăn truyền thống của Việt Nam. Phở ngon và có thương hiệu nổi tiếng nhất Việt Nam là phở Hà Nội với hương vị tuyệt vời. Phở được làm từ bánh phở, thịt bò hoặc thịt gà và những gia vị khác. Phở là một món nước, vì thế sẽ ngon hơn khi ăn cùng với giá. Ăn phở với gia đình không chỉ phản ánh truyền thống người Việt mà còn tạo nên không khí ấm cúng. Vào cuối tuần, tôi và bạn bè thường đi ra tiệm ăn phở vì phở được bán ở rất nhiều hàng quán tại VN. Có 2 loại phở chính đó là phở bò và phở gà, cả hai đều ngon và bổ dưỡng. Phở là món ăn yêu thích của hầu hết người Việt và thường được phụ vụ như bữa sáng. Hơn nữa, phở còn phổ biến ở thị trường quốc tế bởi vị ngon và giá thành phải chăng. Du khách nước ngoài đến VN và họ rất thích hương vị phở ở đây. Tôi rất tự hào về điều đó. Trong tương lai, tôi mong phở sẽ càng nổi tiếng ở các nước khác để họ có thể thưởng thức và hiểu hơn về văn hoá Việt.</h3>
+            <ul>
+                <li><a href="https://www.vietnamplus.vn/am-thuc-dac-sac-giup-dinh-vi-hinh-anh-du-lich-viet-nam/765081.vnp">Xem chi tiết hơn tại đây</a></li>
+            </ul>
+        </section>
+    </body>
+</html>
