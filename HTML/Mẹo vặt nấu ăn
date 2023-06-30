@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Hung Huy">
+        <title>Ẩm thực du lịch Việt Nam</title>
+    </head>
 
+    <body>
+        <header>
+            <div>
+            <nav>
+                <ul>
+                    <li><a href="Trangchu.html">Trang Chủ</a></li>
+                    <li class="current"><a href="MonAn.html">Món ăn</a></li>
+                    <li><a href="Điaiemhapdan.html">Địa Điểm hấp dẫn </a></li>
+                    <li><a href="Meovatnauan.html">Mẹo vặt nấu ăn</a></li>
+                    <li><a href="Dathang.html">Đặt hàng</a></li>
+                </ul>
+            </nav>
+            </div>
+            <h2><b>Nếu đã muốn thưởng thức món ngon, sao có thể thiếu những mẹo nhỏ để tự du khách nấu rồi chia sẻ cho mọi người xung quanh được</b></h2>
+        </header>
+        <section>
+            <div>
+            <h1><b>Dưới đây là những mẹo sẽ hữu ích cho bạn khi vào bếp</h1></b>
+           <h2><b>1. Cách nướng thịt nhanh, chín đều và ngon hơn</b></h2>
+           <p>Ai hay nướng thịt chắc chắn từng gặp tình trạng miếng thịt bị sống ở giữa nếu chưa nướng kỹ. Để tránh tình trạng này bạn chỉ cần làm như sau:</p>
+           <img src="https://kenh14cdn.com/thumb_w/620/2017/meo1-1506595921620.jpg">
+           <h2><b>2. Cách chiên xúc xích chín đều và ngon hơn</h2></b>
+           <p>Vẫn rất đơn giản, nhìn mà làm nhé!</p>
+           <img src="https://kenh14cdn.com/thumb_w/620/2017/meo4-1506595921643.jpg">
+           <h2><b>3. Căn số phút luộc trứng để có độ chín như ý</b></h2>
+           <p>Mẹo này đòi hỏi bạn phải canh thời gian và có một ít kiên nhẫn</p>
+           <img src="https://kenh14cdn.com/thumb_w/620/2017/meo7-1506595921696.jpg">
+           <h2><b>4. Cách nướng thịt xông khói hoàn hảo</b></h2>
+           <img src="https://kenh14cdn.com/thumb_w/620/2017/meo9-1506595921708.jpg">
+        <p>Chúc các bạn thành công với những mẹo này</p>
+            </div>
+            <li><a href="https://kenh14.vn/14-meo-vat-huu-ich-duoc-hoc-lom-tu-cac-dau-bep-nha-hang-20170928165220695.chn">Ngoài ra còn có thêm 7 mẹo khác ở đây</a></li>
+        </section>
+    </body>
+</html>
