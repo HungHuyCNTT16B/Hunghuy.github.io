@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="author" content="Hung Huy">
+        <title>Ẩm thực du lịch Việt Nam</title>
+    </head>
 
+    <body>
+        <header>
+            <div>
+            <nav>
+                <ul>
+                    <li><a href="Trangchu.html">Trang Chủ</a></li>
+                    <li class="current"><a href="MonAn.html">Món ăn</a></li>
+                    <li><a href="Điaiemhapdan.html">Địa Điểm hấp dẫn </a></li>
+                    <li><a href="Meovatnauan.html">Mẹo vặt nấu ăn</a></li>
+                    <li><a href="Dathang.html">Đặt hàng</a></li>
+                </ul>
+            </nav>
+            </div>
+            <h2>Dưới đây là những khu vực bán đồ ăn nổi tiếng ở Việt Nam</h2>
+            </div>
+        </header>
+        <section>
+            <div>
+            <h1>Nhà Hàng Hoàng Thành Sân Vườn</h1>
+            <h2>Nhà Hàng Hoàng Thành Sân Vườn là một trong quán hải sản tại Tiền Giang được mọi người yêu thích nhất. Quán có menu món phong phú gồm nhiều món được chế biến hấp dẫn nức lòng thực khách như: tôm sú hấp nước dừa tươi, lẩu hải sản đủ loại, cua rang me, cua hấp.<br>
+                Các món ăn ở Nhà Hàng Hoàng Thành Sân Vườn được chế biến dưới tay nghề đầu bếp lâu năm, giàu kinh nghiệm nên khi các món ăn đến với thực khách luôn đảm bảo độ tươi ngon, nóng hổi, màu sắc và trang trí bắt mắt. Và tất nhiên những nguyên liệu chế biến món ăn đều được nhà hàng sơ chế kỉ lưỡng và đảm bảo an toàn vệ sinh thực phẩm.<br>
+                Ngoài món ăn ngon thì nhân viên phục vụ ở Nhà Hàng Hoàng Thành Sân Vườn có tác phong nhanh nhẹn, hòa đồng, tôn trọng khách. Không chỉ vậy quán có không gian rộng rãi, sạch sẽ và tiện nghi vì thế thích hợp để tổ chức tiệc sinh nhật, liên hoan, họp mặt.</h2>
+            <img src="https://tokyometro.vn/wp-content/uploads/2022/07/1657559585_381_6-Dia-chi-ban-do-an-ngon-noi-tieng-o.jpg">
+            <h1> King BBQ - Big C Mỹ Tho</h1>
+            <h2>King BBQ là thươn hiệu ẩm thực đầy danh tiếng trên thị trường ẩm thực và nhận được sự tin tưởng của thực khách trên toàn quốc.<br>
+                King BBQ cung cấp đa dạng các loại hình phục vụ như: Alacarte là mô hình phục vụ các món ăn gọi riêng lẻ theo nhu cầu. Mỗi món tương ứng với giá tiền khác nhau. King BBQ Alacarte mô hình gọi món, với thực đơn đa dạng hơn 200 món ăn cùng các set bộ và combo dành cho 2-4 người với mức giá hợp lý. Món sườn King là món ăn đặc trưng và rất nổi tiếng mà bất cứ thực khách nào đến King BBQ cũng không thể bỏ qua. King BBQ Buffet là mô hình Buffet tự chọn ăn không giới hạn trong một mức giá cố định, có quầy Line Buffet để khách hàng lựa chọn món ăn. Mọi người có thể bắt đầu bằng các món soup, kimchi salad, món nóng, món cổ truyền, các món thịt tẩm sốt Hàn Quốc nướng trên than hồng, và kết thúc với món tráng miệng. Thực đơn Buffet hơn 200 món ăn đa dạng đặc trưng hương vị Hàn Quốc.<br>
+                Với phương châm mang đến sự trải nghiệm ẩm thực đẳng cấp nên mỗi món ăn King BBQ đều được chú trọng từ khâu tẩm ướp đến bày trí. Bên cạnh đó sự phục vụ nhiệt tình của phục vụ nơi đây sẽ khiến bạn hài lòng và dành nhiều lời khen ngợi cho King BBQ.</h2>
+            <img src="https://tokyometro.vn/wp-content/uploads/2022/07/1657559585_205_6-Dia-chi-ban-do-an-ngon-noi-tieng-o.jpg">
+            <h1>Ngõ Vàng Anh</h1>
+            <h2>Khi đến Tiền Giang, với những tín đồ mê ăn vặt thì không thể bỏ lỡ quán ăn vặt Tiền Giang có tiếng này. Đây là nơi thu hút đông đảo các bạn học sinh, sinh viên, mê ăn vặt đến thưởng thức. Được mọi người đánh giá, truyền tai nhau về quán với ba chữ “ngon, bổ, rẻ”.<br>
+                Tại Ngõ Vàng Anh có đầy đủ những món ăn vặt làm điên đảo giới trẻ như: bánh tráng trộn, bánh tráng nướng, xiên que, chè, Khoai tây lốc xoáy. Ngoài ra tại đây còn có Bún đậu mắm tôm, Nem nướng, Chả ram, trà đào và nhiều món ăn, thúc uống khác để bạn thoải mái lựa chọn.<br>
+                Không gian quán Ngõ Vàng Anh rộng rãi và thoáng mát: bên trong và không gian ngoài trời đều có. Với bàn ghế được xếp theo từng cụm nơi đây thích hợp để tụ hội cùng bạn bè hay hâm nóng tình cảm cùng người thương của mình.</h2>
+            <img src="https://tokyometro.vn/wp-content/uploads/2022/07/1657559587_443_6-Dia-chi-ban-do-an-ngon-noi-tieng-o.jpg">
+            <h1>Lộc Phố Restaurant</h1>
+            <h2>Lộc Phố Restaurant là một trong những nhà hàng Tiền Giang nổi tiếng thu hút khách du lịch cũng như dân địa phương nơi đây. Vị trí nhà hàng ở ngay mặt đường Trần Hưng Đạo nên khá dễ tìm và thuận tiện cho việc di chuyên của khách hàng. Không gian quá cũng được bố trí rộng rãi, thiết sân vườn có nhiều tiểu cảnh khá đẹp và là nơi lý tưởng để các bạn gái chụp ảnh check in.<br>
+                Thực đơn tại Lộc Phố Restaurant đa dạng các món ăn hấp dẫn: sườn cọng nướng, chả cá, hải sản nướng quế, cua hấp….đậm đà hương vị và bổ dưỡng. Nhân viên phục vụ tại Lộc Phố Restaurant nhanh nhẹn, nhiệt tình. Với thiết kế sang trọng, hiện đại kết hợp với tiểu cảnh thiên nhiên đây sẽ là điểm hẹn lý tưởng cho các cuộc hội, họp mặt gia đình, bạn bè. Hãy một lần đến với quán Lộc Phố Restaurant để thưởng thức những món ăn ngon lành đậm đại vị miền quê nhé!<br></h2>
+            <img src="https://tokyometro.vn/wp-content/uploads/2022/07/1657559587_583_6-Dia-chi-ban-do-an-ngon-noi-tieng-o.jpg">
+            <img src="https://tokyometro.vn/wp-content/uploads/2022/07/1657559587_138_6-Dia-chi-ban-do-an-ngon-noi-tieng-o.jpg">
+            </div>
+            <li><a href="https://tokyometro.vn/6-dia-chi-ban-do-an-ngon-noi-tieng-o-tp-my-tho-tien-giang-s304311-html/">Xem chi tiết hơn tại đây</a></li>
+        </section>
+    </body>
+</html> 
