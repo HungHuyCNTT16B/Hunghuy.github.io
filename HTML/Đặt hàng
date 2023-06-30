@@ -2,53 +2,37 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <meta name="description" content="Các món ăn gia đình">
         <meta name="author" content="Hung Huy">
-        <title>Các món ăn gia đình</title>
+        <title>Ẩm thực du lịch Việt Nam</title>
     </head>
+
     <body>
         <header>
             <div id="kj">
             <nav>
                 <ul>
-                    <link rel="next" href="https://Amthuc.net.vn/page/1/">
-                    <link rel="next" href="https://Amthuc.net.vn/page/2/">
-                    <link ref="next" href="https://Amthuc.net.vn/page/3/">
-                    <link ref="next" href="https://Amthuc.net.vn/page/4/">
-                    <link ref="next" href="https://Amthuc.net.vn/page/5/">
+                    <li><a href="Trangchu.html">Trang Chủ</a></li>
+                    <li class="current"><a href="MonAn.html">Món ăn</a></li>
+                    <li><a href="Điaiemhapdan.html">Địa Điểm hấp dẫn </a></li>
+                    <li><a href="Meovatnauan.html">Mẹo vặt nấu ăn</a></li>
+                    <li><a href="Dathang.html">Đặt hàng</a></li>
                 </ul>
             </nav>
-            <h2><b>Ẩm thực</b></h2>
             </div>
         </header>
         <section>
-            <div id="jk">
-            <p>Menu món ngon</p>
-            <img src="https://songduong.com/wp-content/uploads/2020/03/SD-MenuRutGon-web-1.jpg" width="400" height="300">
-            <h3><b></b></h3>
-            <h1><p>Món ăn</p></h1>
-            <h2><p>Gỏi cuốn</p></h2>
-            <h1><link rel="next" href="https://Amthuc.net.vn/page/2/">Món ăn</a></h1>
-            <h2><p>Thịt gà chiên nước mắm</h2></p>
-            <h2><p>Thịt ba chỉ quay giòn bì</h2></p>
-            <h2><p>Canh rau cải</h2></p>
-            <h2><p>Củ cải muối</h2></p>
-            <h2><p>Tráng miệng: Quất ngọt</h2></p>
-            <img src="https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-57-1671587877213780697461.jpg" width="400" height="300" />
-            <h2><p>Riêu cua</h2></p>
-            <h2><p>Bắp bò ngâm mắm</h2></p>
-            <h2><p>Thịt diềm luộc</h2></p>
-            <h2><p>Tôm hấp nước dừa</h2></p>
-            <h2><p>Cà pháo</h2></p>
-            <h2><p></p>Tráng miệng: Quýt</h2></p>
-            <img src="https://giadinh.mediacdn.vn/296230595582509056/2022/12/21/an-gi-98-16715878746801816647254.jpg" width="400" height="300">
-            <h1><p>Địa điểm hấp dẫn</p></h1>
-            <h1><p>Quán Hải Sản</p></h1>
-            <h2><p>Quán Bờ Kè - Địa chỉ: số 52 đường Cù Huân, phường Vĩnh Thọ, TP. Nha Trang, tỉnh Khánh Hòa</p></h2>
-            <h2><p>Quán Thanh Sương - Địa chỉ: Cơ sở 1: số 15 đường Trần Phú, phường Vĩnh Nguyên, TP. Nha Trang, tỉnh Khánh Hòa</p><br>Địa chỉ: Cơ sở 2: số 9A đường Trần Phú, phường Vĩnh Nguyên, TP. Nha Trang, tỉnh Khánh Hòa
-            <h2><p>Quán ốc Xuân Anh - Địa chỉ: số 9C đường Tháp Bà, phường Vĩnh Thọ, TP. Nha Trang, tỉnh Khánh Hòa</p></h2>
-            <img src="https://static.vinwonders.com/2022/03/JeXWynZd-dia-diem-an-uong-nha-trang-01.jpg" width="400" height="300 />
-            </div>
-        </section>
-    </body>
-</html>
+            <div>
+            <h1><b>Nếu bạn thấy những việc làm trên là quá khó. Hay chỉ đơn giản vì tâm trạng không tốt nên không muốn ra khỏi nhà! Mà vẫn muốn có đồ ăn ngon?<br>
+                   Vậy thì đừng lo, đây là nơi dành cho bạn. Tại đây chúng tôi giới thiệu các ứng dụng đặt đồ giá rẻ và uy tín.</h1></b>
+            <h2>1. Lozi</h2>
+            <h4>Nếu nói về website liên quan đến dịch vụ ăn uống, Lozi chắc chắn không phải là cái tên đầu tiên. Tuy nhiên, trong khi các website khác tập trung vào việc đánh giá, bình luận về quán ăn, Lozi lại có một hướng đi đầy táo bạo, đó là gợi ý cho người dùng “ăn gì”, sau đó mới là “ở đâu”. Chính thức ra mắt vào tháng 1/2014, Lozi hiện tại đã và đang là một trong số những cộng đồng về ẩm thực đông đảo nhất Việt Nam. Hình ảnh chú mèo với con cá trên đầu - biểu tượng của Lozi cũng trở thành một người bạn vô cùng quen thuộc đối với giới trẻ.</h4>
+            <img src="https://kama-software.com/wp-content/uploads/2019/07/lozi.jpg">
+            <h2>2. GrabFood</h2>
+            <h4>GrabFood là một dịch vụ giao nhận thức ăn nhanh, vừa được Grab ra mắt không lâu gần đây nhưng cũng nhanh chóng chiếm được thiện cảm lớn của người tiêu dùng bởi sự tiện lợi, nhanh chóng và ưu tiên trải nghiệm khách hàng được đội ngũ Grab hoàn thành rất tốt.</h4>
+            <img src="https://toplist.vn/images/800px/grabfood-1008824.jpg">
+            <h2>ShopeeFood</h2>
+            <h4>ShopeeFood cung cấp đa dạng các đồ ăn phù hợp với từng thời điểm trong ngày: sáng, trưa, chiều. Dựa vào múi giờ bạn đang sống, app sẽ cung cấp những thực đơn phù hợp vào thời điểm đó và các tiệm gần nơi bạn ở sẽ được ưu tiên hiển thị hơn, cùng với đó là rating cao hơn cũng sẽ được xếp lên trên. Hệ thống tài xế của ShopeeFood khá dày đặc nên bạn sẽ không phải chờ đợi quá lâu và khi đồ ăn giao tới vẫn sẽ còn nóng hổi. Hãng cũng tích cực đem tới các voucher giảm giá để người dùng có thể tiết kiệm được kha khá chi phí. Các cửa hàng là đối tác của ShopeeFood cũng sẽ được miễn giảm một số phụ phí như phí dịch vụ.</h4>
+            <img src="https://toplist.vn/images/800px/shopeefood-1008814.jpg">
+            <h2>beFood</h2>
+            <h4>ứng dụng Be tham gia vào thị trường đặt đồ ăn trực tuyến sẽ mang đến thêm nhiều lựa chọn, chương trình ưu đãi cho người dùng và cải thiện thu nhập cho tài xế beBike của hãng. Quan trọng hơn, đây là một cột mốc quan trọng, góp phần hoàn thiện hệ sinh thái công nghệ mở của ứng dụng Be với đa dạng dải dịch vụ từ vận tải, giao hàng, đặt đồ ăn, đi chợ hộ, mua vé máy bay, vé xe khách, ngân hàng số Cake by VPBank, đến nhiều tiện ích khác như mua bảo hiểm, nạp tiền điện thoại, giúp Be tiếp tục khẳng định hướng đi bền vững tại thị trường Việt Nam.</h4>
+            <img src="https://toplist.vn/images/800px/befood-1022562.jpg">
